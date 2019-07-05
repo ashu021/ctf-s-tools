@@ -1,2 +1,7 @@
 dotdotpwn-> used for directory traversal fuzzing
 enum4linux->used for ennumeration
+dirb-> used for finding hidden directories in any web application.
+john-> used for cracking the hashes.
+hydra and medusa-> both tools are used for bruteforcing ,and useful for dictionary based attacks.
+burpsuite-> best web application pentesting tools used for lot of things.
+hash identifier-> used for identification of hashes.
