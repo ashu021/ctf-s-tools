@@ -5,3 +5,4 @@ john-> used for cracking the hashes.
 hydra and medusa-> both tools are used for bruteforcing ,and useful for dictionary based attacks.
 burpsuite-> best web application pentesting tools used for lot of things.
 hash identifier-> used for identification of hashes.
+stegosuite-> used for detecting or decrypting files in images.
