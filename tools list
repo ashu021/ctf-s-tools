@@ -6,3 +6,4 @@ hydra and medusa-> both tools are used for bruteforcing ,and useful for dictiona
 burpsuite-> best web application pentesting tools used for lot of things.
 hash identifier-> used for identification of hashes.
 stegosuite-> used for detecting or decrypting files in images.
+exiftool-> for reading the information in images.
